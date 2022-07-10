@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning OpenCV and App Development
 - 💞️ I’m looking to collaborate on Arduino or App Developement
 - 📫 How to reach me - 
-- Linkedin-https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B7pm%2BEBOiRQ%2BUaCJOZXvdbQ%3D%3D
+- [Linkedin](https://www.linkedin.com/in/akshit-shishodia-631aab23a/)
+- [Instagram](https://www.instagram.com/_akshit_613)
 -
 
 <!---
