@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshit0601
+- 👋 Hi, I’m Akshit,an undergrad student at IIT,Guwahati
 - 👀 I’m interested in ROS,OpenCV,Arduino,App Development
 - 🌱 I’m currently learning OpenCV and App Development
 - 💞️ I’m looking to collaborate on Arduino or App Developement
