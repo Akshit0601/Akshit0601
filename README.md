@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Akshit,an undergrad student at IIT,Guwahati
-- 👀 I’m interested in ROS,OpenCV,Arduino,App Development
+- 👀 I’m interested in:
+  ![Arduino](https://github.com/vinceliuice/Fluent-icon-theme/blob/6064a3a2085ed588c1b3171c0ec551107ada9fb2/src/scalable/apps/arduino.svg "Arduino")
+  ![Swift](https://github.com/actions/starter-workflows/blob/692c4c52607f67dd3ee34ad0b7c26066ae85bbae/icons/swift.svg "Swift UI tools")
+  
 - 🌱 I’m currently learning OpenCV and App Development
 - 💞️ I’m looking to collaborate on Arduino or App Developement
 - 📫 How to reach me - 
@@ -9,5 +12,5 @@
 
 <!---
 Akshit0601/Akshit0601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.ROS,OpenCV,Arduino,App Development
 --->
