@@ -4,7 +4,8 @@
   ![Swift](src/icons8-swift-80.svg "Swift UI tools")
   &nbsp; ![ROS](src/1200px-Robot_Operating_System_logo.svg.png "ROS")
   ![OpenCV](src/icons8-opencv-80.svg "OpenCV")
-- 🌱 I’m currently learning OpenCV and App Development
+  ![Android App Development](src/icons8-android-os-70.svg "Android App Development")
+- 🌱 I’m currently learning OpenCV,ROS and App Development
 - 💞️ I’m looking to collaborate on Arduino or App Developement
 - 📫 How to reach me - 
 - [Linkedin](https://www.linkedin.com/in/akshit-shishodia-631aab23a/)
