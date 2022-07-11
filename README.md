@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshit,an undergrad student at IIT,Guwahati
 - 👀 I’m interested in:
   ![Arduino](https://github.com/vinceliuice/Fluent-icon-theme/blob/6064a3a2085ed588c1b3171c0ec551107ada9fb2/src/scalable/apps/arduino.svg "Arduino")
-  ![Swift](src/swift.svg "Swift UI tools")
+  ![Swift](src/icons8-swift-48.svg "Swift UI tools")
   &nbsp; ![ROS](src/1200px-Robot_Operating_System_logo.svg.png "ROS")
 - 🌱 I’m currently learning OpenCV and App Development
 - 💞️ I’m looking to collaborate on Arduino or App Developement
