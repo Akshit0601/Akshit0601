@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on Arduino or App Developement
 - 📫 How to reach me - 
 - [Linkedin](https://www.linkedin.com/in/akshit-shishodia-631aab23a/)
-- [Instagram](https://www.instagram.com/_akshit_613 align="centre")
+- [Instagram](https://www.instagram.com/_akshit_613)
 
 
 <p align="center">
