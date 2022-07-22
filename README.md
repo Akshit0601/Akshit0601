@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akshit,an undergrad student at IIT,Guwahati
+- 👋 Hi, I’m Akshit,a sophomore at IIT,Guwahati
 - 👀 I’m interested in:
   ![Arduino](https://github.com/vinceliuice/Fluent-icon-theme/blob/6064a3a2085ed588c1b3171c0ec551107ada9fb2/src/scalable/apps/arduino.svg "Arduino")
   ![Swift](src/icons8-swift-80.svg "Swift UI tools")
