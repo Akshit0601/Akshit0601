@@ -1,21 +1,24 @@
-- 👋 Hi, I’m Akshit,sophomore at IIT-Guwahati
-- 👀 I’m interested in:
-  ![Arduino](https://github.com/vinceliuice/Fluent-icon-theme/blob/6064a3a2085ed588c1b3171c0ec551107ada9fb2/src/scalable/apps/arduino.svg "Arduino")
-  &nbsp; ![OpenCV](src/icons8-opencv-80.svg "OpenCV")
-  ![Android App Development](src/icons8-android-os-70.svg "Android App Development")
-  &nbsp;![ROS](src/1200px-Robot_Operating_System_logo.svg.png)
-- 🌱 I’m currently learning OpenCV,ROS and App Development
-- 💞️ I’m looking to collaborate on Arduino or App Developement
-- 📫 How to reach me - 
-- [Linkedin](https://www.linkedin.com/in/akshit-shishodia-631aab23a/)
-<!---- [Instagram](https://www.instagram.com/_akshit_613)
---->
+# 💫 About Me:
+Hi! I'm Akshit Shishodia, a Sophomore at IIT, Guwahati<br>I'm currently working on Computer Vision, ROS, Deep Learning<br>I'm interested in Robotics, Deep Learning and Simulation<br><br>Looking to Collaborate on ROS, Computer Vision
 
-<p align="center">
-  <img src="src/deku-bnha.gif" />
-</p>
 
-<!---
-Akshit0601/Akshit0601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.ROS,OpenCV,Arduino,App Development
---->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-shishodia-631aab23a/)
+
+# 💻 Tech Stack:
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Akshit0601&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akshit0601&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0601&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Akshit0601&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Akshit0601&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
