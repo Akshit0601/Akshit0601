@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Akshit0601&label=Profile+views&color=7aa2f7&style=flat-square" alt="Profile views"/>
   <a href="https://www.linkedin.com/in/akshit-shishodia-631aab23a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <!-- <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> -->
+  <a href="mailto:akshitshishodia@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a> -->
 </div>
 
@@ -102,7 +102,7 @@ Hi, I'm **Akshit**, currently pursuing my master's in Electrical and Computer En
 ---
 
 <div align="center">
-  <i>Always up for conversations on robotics and AI Feel free to reach out.</i>
+  <i>Always up for conversations on robotics and AI. Feel free to reach out.</i>
 </div>
 
 <div align="center">
