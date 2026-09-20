@@ -52,53 +52,41 @@ Hi, I'm **Akshit**, currently pursuing my master's in Electrical and Computer En
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Akshit0601/Unitree-G1-Mujoco-Playground">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshit0601&repo=Unitree-G1-Mujoco-Playground&theme=tokyonight&hide_border=true" alt="Unitree G1 MuJoCo Playground"/>
-      </a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Akshit0601/Unitree-G1-Mujoco-Playground">🦿 Unitree G1 MuJoCo Playground</a></h4>
+      <p>PD-control of a Unitree G1 humanoid in MuJoCo through the SDK2 bridge, with a camera pipeline for localising objects in the field of view.</p>
+      <img src="https://img.shields.io/github/stars/Akshit0601/Unitree-G1-Mujoco-Playground?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Stars"/>
+      <img src="https://img.shields.io/github/languages/top/Akshit0601/Unitree-G1-Mujoco-Playground?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Top language"/>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Akshit0601/Testing-Sandbox-For-Autonomous-Navigation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshit0601&repo=Testing-Sandbox-For-Autonomous-Navigation&theme=tokyonight&hide_border=true" alt="Testing Sandbox for Autonomous Navigation"/>
-      </a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Akshit0601/Testing-Sandbox-For-Autonomous-Navigation">🚗 Testing Sandbox for Autonomous Navigation</a></h4>
+      <p>A lightweight, plug-and-play Gazebo sandbox for dataset-driven testing of navigation pipelines, with GPU-accelerated FOV culling.</p>
+      <img src="https://img.shields.io/github/stars/Akshit0601/Testing-Sandbox-For-Autonomous-Navigation?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Stars"/>
+      <img src="https://img.shields.io/github/languages/top/Akshit0601/Testing-Sandbox-For-Autonomous-Navigation?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Top language"/>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Akshit0601/Cartpole-using-REINFORCE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshit0601&repo=Cartpole-using-REINFORCE&theme=tokyonight&hide_border=true" alt="Cartpole using REINFORCE"/>
-      </a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Akshit0601/Cartpole-using-REINFORCE">🎯 Cartpole using REINFORCE</a></h4>
+      <p>A REINFORCE policy-gradient agent for CartPole, trained in Gymnasium with MuJoCo and tested in Gazebo Classic and MuJoCo.</p>
+      <img src="https://img.shields.io/github/stars/Akshit0601/Cartpole-using-REINFORCE?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Stars"/>
+      <img src="https://img.shields.io/github/languages/top/Akshit0601/Cartpole-using-REINFORCE?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Top language"/>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Akshit0601/Anomaly-Detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshit0601&repo=Anomaly-Detection&theme=tokyonight&hide_border=true" alt="Anomaly Detection"/>
-      </a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Akshit0601/Marjanator_ROS">🚤 Marjanator</a></h4>
+      <p>A ROS-enabled autonomous surface vessel (USV) designed to automate the cleaning of large lakes.</p>
+      <img src="https://img.shields.io/github/stars/Akshit0601/Marjanator_ROS?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Stars"/>
+      <img src="https://img.shields.io/github/languages/top/Akshit0601/Marjanator_ROS?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Top language"/>
     </td>
   </tr>
 </table>
-
-| Project | What it does |
-|---|---|
-| 🦿 [**Unitree G1 MuJoCo Playground**](https://github.com/Akshit0601/Unitree-G1-Mujoco-Playground) | PD-control of a Unitree G1 humanoid in MuJoCo through the SDK2 bridge, plus a camera pipeline for object localisation in the field of view. |
-| 🚗 [**Testing Sandbox for Autonomous Navigation**](https://github.com/Akshit0601/Testing-Sandbox-For-Autonomous-Navigation) | A lightweight, plug-and-play Gazebo sandbox for dataset-driven testing of navigation pipelines, with GPU-accelerated FOV culling. |
-| 🦾 [**Inverse Kinematic Visualiser**](https://github.com/Akshit0601/Inverse_Kinematic_Visualiser) | Interactive visualisation of inverse kinematics for robotic manipulators. |
-| 🧭 [**Marjanator ROS**](https://github.com/Akshit0601/Marjanator_ROS) | C++ ROS package for a mobile robot. |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshit0601&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0601&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Akshit0601&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshit0601&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
 </div>
 
 ---
@@ -106,22 +94,15 @@ Hi, I'm **Akshit**, currently pursuing my master's in Electrical and Computer En
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshit0601&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
-</div>
-
-<!-- Contribution snake: requires the snake.yml workflow (see setup notes) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshit0601/Akshit0601/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshit0601/Akshit0601/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Akshit0601/Akshit0601/output/github-snake.svg" />
-  </picture>
+  <a href="https://github.com/Akshit0601">
+    <img src="https://ghchart.rshah.org/7aa2f7/Akshit0601" alt="Contribution graph" width="90%"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <i>Always up for conversations on robotics, perception, and simulation. Feel free to reach out.</i>
+  <i>Always up for conversations on robotics and AI Feel free to reach out.</i>
 </div>
 
 <div align="center">
