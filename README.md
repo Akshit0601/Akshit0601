@@ -13,7 +13,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akshit0601&label=Profile+views&color=7aa2f7&style=flat-square" alt="Profile views"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=Akshit0601&label=Profile+views&color=7aa2f7&style=flat-square" alt="Profile views"/> -->
+  <img src="https://hits.sh/github.com/Akshit0601.svg?style=flat-square&label=Profile%20views&color=7aa2f7&labelColor=1a1b27" alt="Profile views"/>
   <a href="https://www.linkedin.com/in/akshit-shishodia-631aab23a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:akshitshishodia@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://akshit0601.github.io/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
